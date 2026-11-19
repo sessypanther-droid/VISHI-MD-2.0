@@ -1,1 +1,1 @@
-# VISHI-MD-2.0
+# VISHI-MD
